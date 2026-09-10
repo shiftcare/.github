@@ -80,6 +80,6 @@ Yesterday's and today's shifts come back grouped by urgency, with a next step on
 * [Help centre](https://help.shiftcare.com)
 * [Turn on MCP for your account](https://help.shiftcare.com/en/articles/14636328-managing-ai-settings)
 * [Partner with us](https://shiftcare.com/partners)
-* [Report a security issue](FILL_SECURITY_CONTACT)
+* [Report a security issue](mailto:security@shiftcare.com)
 
 <sub>Forked repositories in this organisation are dependency pins, not projects.</sub>

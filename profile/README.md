@@ -34,7 +34,7 @@ draws from Xero AU or PayCat Connect in Australia.
 
 ## What's here
 
-**[ai-skills](https://github.com/shiftcare/ai-skills)** — ten skills that teach AI coding
+**[ai-skills](https://github.com/shiftcare/ai-skills)** — eleven skills that teach AI coding
 agents how to work with ShiftCare through the ShiftCare MCP server. Tested with Claude Code
 and Codex.
 
@@ -78,6 +78,7 @@ Yesterday's and today's shifts come back grouped by urgency, with a next step on
 
 * [See the product](https://shiftcare.com)
 * [Help centre](https://help.shiftcare.com)
+* [Connecting an AI assistant to your care data](https://shiftcare.com/blog/connecting-ai-assistant-your-care-data)
 * [Turn on MCP for your account](https://help.shiftcare.com/en/articles/14636328-managing-ai-settings)
 * [Partner with us](https://shiftcare.com/partners)
 * [Report a security issue](mailto:security@shiftcare.com)
